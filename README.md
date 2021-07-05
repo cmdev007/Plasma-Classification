@@ -15,4 +15,4 @@ accomplish this feat.
 ### Front-End:
 - As the project was supposed to be used by non-techie people, we developed front-end using StreamLit.
 - The front-end shows live demo of all the parameters of Plasma.
-![](https://github.com/cmdev007/Plasma-Classification/raw/main/images/figure2.png)
+![](https://github.com/cmdev007/Plasma-Classification/raw/main/images/figure2-confidential.png)
